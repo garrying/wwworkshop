@@ -1,0 +1,109 @@
+/* Box-sizing behaviour */
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* General element selectors */
+
+body {
+  color: #555;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+a {
+  color: #999;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #444;
+  text-decoration: underline;
+}
+
+p {
+  max-width: 700px;
+  margin: 0 auto 1em;
+}
+
+/* Text logo style */
+
+.logo-text {
+  font-size: 1em;
+  margin: 0;
+}
+
+/* Navigation position and layout */
+
+.site-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: 40px 0;
+}
+
+.navigation {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-item {
+  list-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* Page element styles */
+
+.splash-graphic {
+  font-size: 60px;
+  line-height: 1.75em;
+  margin-bottom: 100px;
+  padding: 100px;
+  color: #AC9077;
+  background: #222222;
+  height: 700px;
+}
+
+.article {
+  color: rgba(45,55,65,.85);
+  font-size: 1.1em;
+  line-height: 1.7em;
+}
+
+.container {
+  max-width: 900px;
+  margin: 20px auto 0;
+}
+
+.grad-moment {
+  color: #fff;
+  padding: 100px;
+  font-weight: 100;
+  height: 700px;
+  text-align: center;
+  line-height: 5em;
+  margin: 100px 0;
+  background-image: linear-gradient(#fd9b86, #fc9dc9, #ab9cc9, #a8edca);
+}
+
+/* Image position and layout */
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px 0;
+}
+
+.image-wrapper {
+  border: 10px solid #DFDCD7;
+  border-radius: 50%;
+  margin: 20px;
+}

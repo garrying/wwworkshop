@@ -10,7 +10,6 @@ Lastly, explain your idea in the form of comments at each breakpoint in your CSS
 - [preservation-and-permanence.html](./content/preservation-and-permanence.html)
 - [mushroom-at-the-end-of-the-world.html](./content/mushroom-at-the-end-of-the-world.html)
 - [what-comes-after-the-environment.html](./content/what-comes-after-the-environment.html)
- 
 
 In your HTML file be sure to add the following between `<head>` and `</head>`:
 

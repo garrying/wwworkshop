@@ -1,6 +1,7 @@
 # Readings
 
 ## What Screens Want
+
 https://frankchimero.com/writing/what-screens-want/  
 _Frank Chimero, November, 2013_
 
@@ -9,6 +10,7 @@ _Frank Chimero, November, 2013_
 - Define—in your own words—Chimero's concept of Flux. Please provide an example of Flux that you see in your own online experience.
 
 ## Turing Complete User
+
 http://contemporary-home-computing.org/turing-complete-user/  
 _Olia Lialina, October 2012_
 
@@ -19,6 +21,7 @@ _Olia Lialina, October 2012_
 It's also encouraged that you think of what "seamless" means in the context of the web, technology, and this article.
 
 ## Graphesis: Visual Forms of Knowledge Production
+
 http://www.hup.harvard.edu/catalog.php?isbn=9780674724938  
 _Johanna Drucker, July 2014_
 
@@ -29,6 +32,7 @@ _Interface and Interpretation (pages 138–179)_
 - As a process, what factors do you feel are central to the design of interfaces that are missing from this article?
 
 ## Database as Symbolic Form
+
 https://journals.sagepub.com/doi/10.1177/135485659900500206  
 _Lev Manovich, June 1999_
 

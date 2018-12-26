@@ -13,10 +13,10 @@ Course material for _Interactive Media: Web, GDES-3091-001,_ an undergraduate co
 > 
 > —[OCAD U Course Catalogue, 2018](https://selfservice.ocadu.ca/Student/Courses)
 
-### Licence & Attribution
+### License & Attribution
 
 - Course content adapted from Ali S. Qadeer
-- Source code is avaliable under [GNU General Public License v3.0](./LICENSE)
+- Source code is available under [GNU General Public License v3.0](./LICENSE)
 - Unless otherwise indicated, course content is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
@@ -31,7 +31,7 @@ In which we introduce the course, our expectations and the gain a basic understa
     - What is one of your earliest memory of being online?
 
 #### Presentation: [Module 1](./module-1-everything-is-deeply-intertwingled/lecture-01.pdf)
-#### Reading: [What Screens Whant](./readings.md#what-screens-want)
+#### Reading: [What Screens Want](./readings.md#what-screens-want)
 #### Assignment: [House Hold Objects](./assignments/household-objects.md)
 
 ---
@@ -52,7 +52,7 @@ In which we learn the basics of on-screen typography past and present as well as
 ---
 
 ### Week 4—Interaction I: JavaScript
-In which we devote the class to playing with the fundamentals of web-based interaction via the javascript programming language and it's jQuery library.
+In which we devote the class to playing with the fundamentals of web-based interaction via the JavaScript programming language and it's jQuery library.
 
 #### Presentation: [Module 4](./module-4-interaction/lecture-04.pdf)
 

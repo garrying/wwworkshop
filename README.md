@@ -100,7 +100,7 @@ In which we introduce databases, server-side scripting and rapid prototyping sys
 ### Week 11—Libraries, Stacks, and Collections (Continued)
 In which we address broader questions of interactivity from a human-centered perspective.
 
-#### Reading: [Graphesis](./readings.md#graphesis)
+#### Reading: [Graphesis: Visual Forms of Knowledge Production](./readings.md#graphesis-visual-forms-of-knowledge-production)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ![An animation cycling through Susan Kare's icons for the Macintosh](../media/susan-kare-icons.gif "Susan Kare, 1984")  
 
-For your final project, the task will be to translate a collection into a web-based experience that will be part of a webring called _WWWorkshop_, under the title _Collection of Collections_. As a contributor to the webring you will be documenting and publishing a collection of your choosing that will help form a collective memory with your peers. The exploration of the collection should be engaging, engrossing, and purposeful. Visitors should visit the experience and understand its breadth and connections.
+For your final project, the task will be to translate a collection into a web-based experience that will be part of a webring called [**WWWorkshop**](https://wwworkshop.org), under the title _Collection of Collections_. As a contributor to the webring you will be documenting and publishing a collection of your choosing that will help form a collective memory with your peers. The exploration of the collection should be engaging, engrossing, and purposeful. Visitors should visit the experience and understand its breadth and connections.
 
 As a starting point there are few questions you could ask yourself before committing to a direction, subject matter, or design:
 

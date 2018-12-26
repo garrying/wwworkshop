@@ -23,6 +23,7 @@ Consider the the full breadth of topics, references, and methods we have covered
 Know that your sites are not "done" at the due date for this assignment; let's establish a good starting point and allow for your projects to grow and evolve over time. It is encouraged that you think of ways of finding contributions from your peers and your peers peers.
 
 ### Requirements
+
 ❑ Site should be viewable by anyone with the URL  
 ❑ Use of an embedded typeface  
 ❑ All links on page(s) are working  
@@ -31,6 +32,7 @@ Know that your sites are not "done" at the due date for this assignment; let's e
 ❑ The webring `<script>` tag snippet below...  
 
 ### Adding your site to the webring (Required)
+
 [Webrings on Wikipedia](https://en.wikipedia.org/wiki/Webring)
 
 On your homepage, copy and paste the following HTML snippet at the bottom of your page, before the closing `</body>` tag. Optionally, if you have more than one page, paste the HTML snippet on all pages.
@@ -50,6 +52,7 @@ _Navigate to a random page in the webring_
 _Navigate to the next page in the webring, adjacent to you_
 
 ### References and Examples
+
 - http://www.lubalin100.com
 - https://www.artic.edu/collection
 - http://open-foundry.com/hot30

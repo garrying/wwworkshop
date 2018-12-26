@@ -5,6 +5,7 @@ For the first major assignment for this course you will research and iterate aro
 Through the assignment, you’ll explore the possibilities and limitations of the web as a medium, engage ‘code logic’ as a mode of design thinking, and practice being resourceful and _‘learning on demand.’_
 
 ### Final Deliverable
+
 Fully coded website, uploaded to a live server (You have free access to Webspace [via OCAD U](https://www.ocadu.ca/services/it/service-catalog/Webspace.htm))
 
 - Site should be viewable by anyone with the URL
@@ -15,7 +16,8 @@ You will be assigned an interactive element through the following page—JavaScr
 
 [Typologies Randomizer](./interactive-typologies-randomizer)
 
-#### You will be assigned one of these terms:
+#### You will be assigned one of these terms
+
 - Hover
 - Click
 - Drag
@@ -27,6 +29,7 @@ You will be assigned an interactive element through the following page—JavaScr
 - Random
 
 ### Your Website Should
+
 - Clearly showcase your assigned browser technology/method
 - Use familiar web functionality in an unfamiliar and original way
 - Engage and entertain a user/subject
@@ -34,15 +37,17 @@ You will be assigned an interactive element through the following page—JavaScr
 - Actually work (No broken images. No missing libraries. No expectations of that your user imagine a certain behavior)
 
 ### Tips
+
 - Think outside of the logic of the ‘skin’, sketch through code, refine your work
 - Be formally and conceptually ambitious, technically modest
 - Spend your time thinking about how you can make smart and original use of what technical knowledge you already have, rather than trying to learn lots of new stuff
 - If an idea proves too technically difficult, figure out a work-around. Don’t get hung up on small problems at the expense of achieving larger goals
-- Code isn’t something you learn by heart; it’s something you learn how to Google! Browse forums, GitHub, W3 schools, Code Academy, MDN for answers to your questions
+- Code isn’t something you learn by heart; it’s something you learn how to Google! Browse forums, GitHub, W3Schools, Code Academy, MDN for answers to your questions
 - Share knowledge with your classmates
 - Aim to make something really, really awesome
 
 ### Related Examples
+
 - http://recursor.me/
 - http://screenself.me/replicate/
 - http://screenself.me/

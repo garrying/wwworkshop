@@ -1,0 +1,70 @@
+div {
+  position: fixed;
+}
+
+.drum-top {
+  background: black;
+  top: 150px;
+  left: 243px;
+  width: 300px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid white;
+  z-index: 5;
+}
+
+.drum-top-inner {
+  background: black;
+  top: 181px;
+  left: 342px;
+  width: 100px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid white;
+  z-index: 5;
+}
+
+.drum-bottom {
+  background: black;
+  top: 250px;
+  left: 243px;
+  width: 300px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.logo {
+  background: red;
+  top: 250px;
+  left: 243px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  z-index: 6;
+}
+
+.drum-body {
+  background: black;
+  width: 300px;
+  height: 100px;
+  top: 200px;
+  left: 243px;
+  z-index: 4;
+}
+
+.drum-stick {
+  top: 80px;
+  left: 243px;
+  background: black;
+  width: 200px;
+  height: 10px;
+  transform: rotate(45deg);
+}
+
+.drum-stick-two {
+  top: 80px;
+  left: 543px;
+  background: black;
+  width: 200px;
+  height: 10px;
+}

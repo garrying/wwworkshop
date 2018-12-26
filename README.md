@@ -52,7 +52,7 @@ ___
 
 In which we devote the class to playing with the fundamentals of web-based interaction via the JavaScript programming language and it's jQuery library.
 
-- **Presentation: [Module 4](./module-4-interaction/lecture-04.pdf)**
+- **Presentation: [Module 4](./module-4-interaction-1/lecture-04.pdf)**
 
 ___
 

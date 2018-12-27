@@ -5,7 +5,7 @@ Course material for _Interactive Media: Web, GDES-3091-001,_ an undergraduate co
 ## Description
 
 - **Time:** Fridays, 8:30am – 11:30am
-- **Location:**  Room 558, [100 McCaul Street/Sharp Centre](https://goo.gl/maps/FvQJx42HD262)
+- **Location:**  Room 558-MCA, [100 McCaul Street/Sharp Centre](https://goo.gl/maps/FvQJx42HD262)
 - **Instructor:** [Garry Ing](https://garrying.com), ging@faculty.ocadu.ca
 - **Office Hours:** Fridays, 11:30am – 12:30pm, Room 620-MCA
 

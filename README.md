@@ -1,4 +1,4 @@
-# WWWorkshop
+# WWWorkshop ![Susan Kare,1984](./media/susan-kare-icons.gif)
 
 Course material for _Interactive Media: Web, GDES-3091-001,_ an undergraduate course taught at OCAD University in the Fall of 2018.
 
@@ -127,4 +127,5 @@ ___
 
 ### Week 14—Class Critique
 
-Final class review of the assignment _Collection of Collections_. Construct, and sequence, the class webring [WWWorkshop](https://wwworkshop.org).
+Final class review of the assignment _Collection of Collections_. Construct, and sequence, the class webring [WWWorkshop](https://wwworkshop.org)../media/
+[]: 

@@ -125,6 +125,6 @@ Brief discussion about _Graphesis_, by Johanna Drucker, and _Database as a Symbo
 
 ___
 
-### Week 14—Collection of Collections Final Critique
+### Week 14—Class Critique
 
 Final class review of the assignment _Collection of Collections_. Construct, and sequence, the class webring [WWWorkshop](https://wwworkshop.org).

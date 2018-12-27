@@ -3,7 +3,7 @@
 ## What Screens Want
 
 https://frankchimero.com/writing/what-screens-want/  
-_Frank Chimero, November, 2013_
+_Frank Chimero, November 2013_
 
 - In your own words, what is the central thesis of this article?
 - Provide your own example of skeuomorphism that you have noticed in your own life (it doesn't have to be virtual). Explain why it is skeuomorphic.

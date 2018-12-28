@@ -127,5 +127,4 @@ ___
 
 ### Week 14—Class Critique
 
-Final class review of the assignment _Collection of Collections_. Construct, and sequence, the class webring [WWWorkshop](https://wwworkshop.org)../media/
-[]: 
+Final class review of the assignment _Collection of Collections_. Construct, and sequence, the class webring [WWWorkshop](https://wwworkshop.org).

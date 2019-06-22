@@ -34,7 +34,7 @@ The following are a series of prompts, for each section, to help participants th
 - What is an object that you interact with on a daily basis?
 - What is a recent gift that you have given?
 - While in a new place, what is the first thing that you tend to notice?
-- What's the last thing you bought?
+- What was the last thing you bought?
 - Aside from your computer, and smartphone, what object do you look at on a regular basis?
 - On a visit to a forest, what would you look for?
 - Other than books, what would you put on an empty shelf?
@@ -42,15 +42,15 @@ The following are a series of prompts, for each section, to help participants th
 ### 2: Properties
 
 - How would you describe the weather today? yesterday? this week?
-- What's the color of the last website you visited?
+- What was the color of the last website you visited?
 - How would you describe the environment/room/building you are in?
 - What word comes to mind when you look out a nearby window?
-- What's the shape of the last cloud looked at?
+- What was the shape of the last cloud looked at?
 
 ### 3: Navigation
 
 - Aside from click, hover, and scroll, what's another action one could take on a digital device?
-- What was the last action you did on your computer?
+- What was the last action you performed on your computer?
 - What is an action you don't usually perform on your computer?
 
 Each entry should be posted on a wall and grouped into 3 sections going from left to right. On to left, _Items_. On the right, _Navigation_. With _Properties_ in between. Each section should be clearly defined with a line to help separate the groups.

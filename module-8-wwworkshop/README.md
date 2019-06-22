@@ -24,7 +24,7 @@ _The following are suggested to help distinguish elements and bring more varied 
 
 Each participant should have 3 sheets of paper and a marker. In 10 minutes, the goal is complete the following statement with each participant contributing one entry (one sheet) per-section:
 
-> ### A collection of `___1___`, that are `____2___`, and you `___3___` to navigate.
+> ### A collection of `___1___`, that are `___2___`, and you `___3___` to navigate.
 
 The following are a series of prompts, for each section, to help participants think about possible contributions:
 

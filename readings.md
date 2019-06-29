@@ -40,3 +40,28 @@ _Lev Manovich, June 1999_
 - _Database as Symbolic Form_ was written 19 years ago now. What has changed? What hasn't changed? Did Manovich's predictions come true?
 - Can you draw a connection between Manovich's ideas and your plan for your final project?
 
+## A Handmade Web
+
+http://luckysoap.com/statements/handmadeweb.html 
+_J.R. Carpenter, Uniformagazine - issue five, January 2016_
+
+- In your own words, what is the central thesis of this article?
+- Carpenter describes the handmade web as a form of resistance. In your own words, what is being resisted?
+- Reflecting on your own experiences, what are other examples of drawing attention the "physicality" of the web?
+
+## This Stands as a Sketch for the Future
+
+_David Reinfurt, July 2007_
+
+- In your own words, what is the environment Cooper cultivated with the The Visible Language Workshop?
+- What was Cooper's intent with "Information Landscapes"? What was it responding to?
+- How has technology, and design practice, changed since Cooper's initial idea of the VLW?
+
+## Scroll, Skim, Stare
+ 
+http://www.thewhitereview.org/feature/scroll-skim-stare/
+_Orit Gat, April 2016_
+
+- In your own words, what is the central thesis of this article?
+- Building on Gat's examples and thoughts on "an online exhibition platform"; What is a possible experience to realize this idea?
+- Aside from the examples (Tumblr, WordPress, Cargo Collective, etc.) in the article; what's an example of a "uniform platform" that could support/challenge Gat's thesis?

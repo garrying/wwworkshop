@@ -22,7 +22,7 @@ ___
 
 ## Schedule
 
-### Week 1—Everything is Deeply Intertwingled
+### Chapter 1—Everything is Deeply Intertwingled
 
 Introduction to the course, our expectations and the gain a basic understanding of fundamental code-materiality of the web. Discussion prompt: What is one of your earliest memory of being online?
 
@@ -32,7 +32,7 @@ Introduction to the course, our expectations and the gain a basic understanding 
 
 ___
 
-### Week 2—Frame and a Mirror
+### Chapter 2—Frame and a Mirror
 
 A walkthrough and demonstration on fundamental aspects of structuring web documents and gain insights into the difference between form and function (Also framed as syntax and style).
 
@@ -40,7 +40,7 @@ A walkthrough and demonstration on fundamental aspects of structuring web docume
 
 ___
 
-### Week 3—A Crystal Goblet
+### Chapter 3—A Crystal Goblet
 
 Presentation and assignment on the basics of on-screen typography past and present as well as embedding, anatomy of a screen font, and discuss how screens affect our typographic practices.
 
@@ -49,7 +49,7 @@ Presentation and assignment on the basics of on-screen typography past and prese
 
 ___
 
-### Week 4—Interaction I: JavaScript
+### Chapter 4—Interaction I: JavaScript
 
 A class devoted to playing with the fundamentals of web-based interaction via the JavaScript programming language and it's jQuery library.
 
@@ -57,9 +57,9 @@ A class devoted to playing with the fundamentals of web-based interaction via th
 
 ___
 
-### Week 5—Interaction II: Frameworks
+### Chapter 5—Interaction II: Frameworks
 
-Presentation and demonstration of jQuery and interacting with the document object model (DOM) before our Study Week.
+Presentation and demonstration of jQuery and interacting with the document object model (DOM) before our Study Chapter.
 
 - **Presentation: [Module 5](./module-5-interaction-2/lecture-05.pdf)**
 - **Reading: [Turing Complete User (Olia Lialina, October 2012)](./readings.md#turing-complete-user)**
@@ -67,23 +67,23 @@ Presentation and demonstration of jQuery and interacting with the document objec
 
 ___
 
-### Week 6—No Class. Study Break
+### Chapter 6—No Class. Study Break
 
 ___
 
-### Week 7—Interaction III: Context
+### Chapter 7—Interaction III: Context
 
 Guest lecturer Ali S. Qadeer. In-class discussion of _Turing Complete User_, by Olia Lialina, and reviews of drafts for _Interactive Typologies_.
 
 ___
 
-### Week 8—Interaction III: Context (Continued)
+### Chapter 8—Interaction III: Context (Continued)
 
 Review of the _Interactive Typologies_ project and workshop session around using JavaScript, jQuery, and uploading work to OCAD University's Webspace.
 
 ___
 
-### Week 9—Interaction III: Context (Continued)
+### Chapter 9—Interaction III: Context (Continued)
 
 Class review of _Interactive Typologies_ assignment. Presentation, and deeper look into the possibilities of web experience by learning about responsive design, media queries & HTML5 variables.
 
@@ -92,7 +92,7 @@ Class review of _Interactive Typologies_ assignment. Presentation, and deeper lo
 
 ___
 
-### Week 10—Libraries, Stacks, and Collections
+### Chapter 10—Libraries, Stacks, and Collections
 
 Presentation and demonstration around the design methodologies and possibilities of working with APIs (Application Programming Interfaces) as a means of creating novel experiences.
 
@@ -101,7 +101,7 @@ Presentation and demonstration around the design methodologies and possibilities
 
 ___
 
-### Week 11—Libraries, Stacks, and Collections (Continued)
+### Chapter 11—Libraries, Stacks, and Collections (Continued)
 
 Work session for the _Data Rivers, Streams, and Creeks_ assignment and discussion around the final assignment, _Collection of Collections_.
 
@@ -109,7 +109,7 @@ Work session for the _Data Rivers, Streams, and Creeks_ assignment and discussio
 
 ___
 
-### Week 12—Collection of Collections
+### Chapter 12—Collection of Collections
 
 Final work session for _Data Rivers, Streams, and Creeks_ assignment. Review of the brief for the final assignment final assignment, _Collection of Collections_.
 
@@ -118,7 +118,7 @@ Final work session for _Data Rivers, Streams, and Creeks_ assignment. Review of 
 
 ___
 
-### Week 13—WWWorkshop
+### Chapter 13—WWWorkshop
 
 Brief discussion about _Graphesis_, by Johanna Drucker, and _Database as a Symbolic Form_, by Lev Manovich. Taking  a look at a few offline, IRL, references for the final assignment, _Collection of Collections_.
 
@@ -126,6 +126,6 @@ Brief discussion about _Graphesis_, by Johanna Drucker, and _Database as a Symbo
 
 ___
 
-### Week 14—Class Critique
+### Chapter 14—Class Critique
 
 Final class review of the assignment _Collection of Collections_. Construct, and sequence, the class webring [WWWorkshop](https://wwworkshop.org).

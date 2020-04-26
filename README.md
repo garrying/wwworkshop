@@ -3,6 +3,7 @@
 Course material for _Interactive Media: Web, GDES-3091-001,_ an undergraduate course taught at OCAD University over the following semesters:
 - Fall of 2018
 - Spring/Summer of 2019
+- Spring/Summer of 2020
 
 ## Description
 

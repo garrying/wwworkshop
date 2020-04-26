@@ -1,6 +1,6 @@
 # WWWorkshop ![Susan Kare, Macintosh Icons, 1984](./media/susan-kare-icons.gif)
 
-Course material for _Interactive Media: Web, GDES-3091-001,_ an undergraduate course taught at OCAD University over the following semesters:
+Course material for _Interactive Media: Web, GDES-3091,_ an undergraduate course taught at OCAD University over the following semesters:
 - Fall of 2018
 - Spring/Summer of 2019
 - Spring/Summer of 2020

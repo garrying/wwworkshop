@@ -6,7 +6,7 @@ Through the assignment, you’ll explore the possibilities and limitations of th
 
 ### Final Deliverable
 
-Fully coded website, uploaded to a live server (You have free access to Webspace [via OCAD U](https://www.ocadu.ca/services/it/service-catalog/Webspace.htm))
+Fully coded website, uploaded to a live server (You have free access to Webspace [via OCAD U](http://webspace.ocad.ca/))
 
 - Site should be viewable by anyone with the URL
 - Can be more than one page

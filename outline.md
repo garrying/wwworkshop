@@ -47,7 +47,7 @@ OCAD U has a twelve-class semester followed by a two-week assessment period for 
 
 The Final Exam Schedule will be released by the office of the Registrar a few weeks after classes have started. This schedule will be sent to instructors and posted online on the [OCAD U website](http://www.ocadu.ca/).
 
-Please also refer to [Senate Policy, 1019: Examinations](http://www.ocadu.ca/Assets/documents/1019-examinations-policy.pdf). This policy outlines the conditions under which a student may request a) a deferred examination and b) access to final examination materials.
+Please also refer to [Senate Policy, 1019: Examinations](https://www.ocadu.ca/sites/default/files/legacy_assets/content/registrarial/1019%20Examinations%20Policy.pdf). This policy outlines the conditions under which a student may request a) a deferred examination and b) access to final examination materials.
 
 Conflict exams must be reported to the Office of the Registrar within 15 working days after the Final Exam Schedule has been published. All requests for Deferred Final Exams due to medically documented and emergency issues must be requested through the Office of the Registrar. If you have a conflict between a critique and a scheduled exam, please contact your Faculty Office.
 

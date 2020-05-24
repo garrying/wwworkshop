@@ -4,7 +4,7 @@
 - [tei-2018.html](./content/tei-2018.html)
 - [theorizing-the-web.html](./content/theorizing-the-web.html)
 - [through-post-atomic-eyes.html](./content/through-post-atomic-eyes.html)
-- [what-comes-after-the-enviroment.html](./content/what-comes-after-the-enviroment.html)
+- [what-comes-after-the-enviroment.html](./content/what-comes-after-the-environment.html)
 
 Starting with the material provided from **one** of the above content packages, typeset a document with the intent of it being an announcement for the event.
 

@@ -21,7 +21,6 @@ In your HTML file be sure to add the following between `<head>` and `</head>`:
 This is required in order for you to see your media queries work at their corresponding resolutions. Feel free to use [example-2-context](../examples/example-3-context) as a starting point.
  
 Some worthwhile resources:
-- [res-commune.org/temp/responsive-example.html](http://res-commune.org/temp/responsive-example.html) Example page
 - [mediaqueri.es](https://mediaqueri.es/) Examples of sites using media queries
 - [w3schools.com/cssref/css3_pr_mediaquery.asp](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) All media query conditions
 - [responsivedesign.is](https://responsivedesign.is/) A primer site

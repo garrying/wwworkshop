@@ -140,6 +140,24 @@ p a {
   line-height: 1.4em;
 }
 
+.image-background {
+  height: 500px;
+  background: black;
+  margin-bottom: 40px;
+  position: relative;
+  background-image: url('../images/bg-image.jpg');
+  background-position: center;
+}
+
+.image-background-caption {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  font-size: 14px;
+  line-height: 1.4em;
+  color: #ffffff;
+}
+
 /* Image position and layout */
 
 .image-container {

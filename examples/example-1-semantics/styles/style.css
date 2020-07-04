@@ -31,6 +31,20 @@ p {
   margin: 0 auto 1em;
 }
 
+p a {
+  text-decoration: underline;
+  color: #000000;
+}
+
+.heading {
+  font-size: 72px;
+}
+
+.subheading {
+  font-size: 50px;
+  color: #9ea0a2;
+}
+
 /* Text logo style */
 
 .logo-text {
@@ -69,6 +83,13 @@ p {
   color: #AC9077;
   background: #222222;
   height: 700px;
+  position: relative;
+}
+
+.splash-graphic-text {
+  position: absolute;
+  bottom: 0;
+  left: 50px;
 }
 
 .article {
@@ -78,11 +99,11 @@ p {
 }
 
 .container {
-  max-width: 900px;
+  max-width: 1000px;
   margin: 20px auto 0;
 }
 
-.grad-moment {
+.gradient-moment {
   color: #fff;
   padding: 100px;
   font-weight: 100;
@@ -91,6 +112,32 @@ p {
   line-height: 5em;
   margin: 100px 0;
   background-image: linear-gradient(#fd9b86, #fc9dc9, #ab9cc9, #a8edca);
+}
+
+.two-columns {
+  display: flex;
+  color: #ffffff;
+  margin-bottom: 50px;
+}
+
+.left-column {
+  padding: 10px;
+  background: #222222;
+}
+
+.right-column {
+  padding: 10px;
+  background: #222222;
+}
+
+.caption-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.small-text {
+  font-size: 12px;
+  line-height: 1.4em;
 }
 
 /* Image position and layout */

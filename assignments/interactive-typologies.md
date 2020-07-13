@@ -24,7 +24,6 @@ You will be assigned an interactive element through the following page—JavaScr
 - Scroll
 - Cursor
 - Type
-- Duration (Time)
 - Show/Hide
 - Random
 

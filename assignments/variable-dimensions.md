@@ -18,7 +18,7 @@ In your HTML file be sure to add the following between `<head>` and `</head>`:
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 ```
 
-This is required in order for you to see your media queries work at their corresponding resolutions. Feel free to use [example-2-context](../examples/example-3-context) as a starting point.
+This is required in order for you to see your media queries work at their corresponding resolutions. Feel free to use [example-3-context](../examples/example-3-context) as a starting point.
  
 Some worthwhile resources:
 - [mediaqueri.es](https://mediaqueri.es/) Examples of sites using media queries

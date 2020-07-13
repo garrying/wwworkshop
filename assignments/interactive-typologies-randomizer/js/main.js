@@ -60,16 +60,16 @@ const terms = [
 const shuffleTerms = arr => arr
   .map(a => [Math.random(), a])
   .sort((a, b) => a[0] - b[0])
-  .map(a => a[1]);
+  .map(a => a[1])
 
 // A variable that will contain the shuffled list
 
-const shuffledTerms = shuffleTerms(terms);
+const shuffledTerms = shuffleTerms(terms)
 
 // Output HTML that iterates over the class list with the randomized terms list
 
 names.forEach(function (name, i) {
   // Select the .class-grid div
   // Add the following HTML that represents each combined name and term
-  document.querySelector('.class-grid').innerHTML += `<div class="grid-item"><div class="name">${name}</div> <div class="term">${shuffledTerms[i]}</div></div>`;
-});
+  document.querySelector('.class-grid').innerHTML += `<div class="grid-item"><div class="name">${name}</div> <div class="term">${shuffledTerms[i]}</div></div>`
+})

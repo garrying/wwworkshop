@@ -1,0 +1,161 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  background: #F7F7F7;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  font-size: 14px;
+  border-bottom: 1px solid #ECECEC;
+}
+
+.logo {
+  margin: 0;
+  font-size: 20px;
+}
+
+.nav-items {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-items li {
+  margin-left: 20px;
+}
+
+.form-area {
+  margin: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ECECEC;
+}
+
+.name-field {
+  margin-bottom: 10px;
+}
+
+.message-field {
+  margin-bottom: 10px;
+}
+
+.form-label {
+  vertical-align: top;
+  margin-top: 10px;
+  display: inline-block;
+  font-weight: bold;
+  width: 80px;
+}
+
+.form-item {
+  font-family: sans-serif;
+  border: 2px solid #999;
+  border-radius: 10px;
+  padding: 1em;
+  width: 300px;
+}
+
+.form-item:hover {
+  border-color: #268CFB;
+}
+
+.form-item:focus {
+  border-color: #000;
+}
+
+.form-button {
+  font-weight: bold;
+  background: black;
+  color: #fff;
+  padding: 1em 2em;
+  border-radius: 10px;
+  border-width: 0;
+}
+
+.form-button:hover {
+  background: #268CFB;
+}
+
+.form-button:active {
+  background: #1359a5;
+}
+
+.message-feed {
+  margin: 20px;
+  max-width: 500px;
+}
+
+.message-container {
+  margin-bottom: 20px;
+}
+
+.message {
+  background: #268CFB;
+  font-size: 14px;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+}
+
+.name {
+  font-size: 12px;
+  color: #666;
+  margin: 5px 10px;
+}
+
+@media screen and (max-width: 700px) {
+  .desktop-menu {
+    display: none;
+    background: #000;
+    color: #fff;
+    position: absolute;
+    right: 0;
+    top: 100%;
+  }
+
+  .nav-items {
+    display: block;
+  }
+
+  .nav-items li {
+    margin: 0;
+    padding: 1em;
+  }
+
+  .active {
+    display: block;
+  }
+
+  #menu-button {
+    color: transparent;
+    background: transparent;
+    border-left: 0;
+    border-right: 0;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    padding: 0;
+    position: relative;
+  }
+
+  #menu-button:after {
+    content: 'after';
+    height: 2px;
+    background: #000;
+    position: absolute;
+    top: 43%;
+    display: block;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .hamburger-menu {
+    display: none;
+  }
+}

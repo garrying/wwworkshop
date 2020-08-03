@@ -23,7 +23,7 @@ Using a JavaScript Object Notation (JSON) Application Programming Interface (API
 
 Feel free to start with this example of using News API:
 
-[example-4-data](../examples/example-4-data)
+[example-5-data](../examples/example-5-data)
 
 ## An alternative to the above brief
 

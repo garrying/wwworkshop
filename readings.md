@@ -66,7 +66,7 @@ _Orit Gat, April 2016_
 - Building on Gat's examples and thoughts on "an online exhibition platform"; What is a possible experience to realize this idea?
 - Aside from the examples (Tumblr, WordPress, Cargo Collective, etc.) in the article; what's an example of a "uniform platform" that could support/challenge Gat's thesis?
 
-## Scroll, Skim, Stare
+## My website is a shifting house next to a river of knowledge. What could yours be?
  
 https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
 _Laurel Schwulst, May 2018_

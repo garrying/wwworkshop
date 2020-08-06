@@ -65,3 +65,12 @@ _Orit Gat, April 2016_
 - In your own words, what is the central thesis of this article?
 - Building on Gat's examples and thoughts on "an online exhibition platform"; What is a possible experience to realize this idea?
 - Aside from the examples (Tumblr, WordPress, Cargo Collective, etc.) in the article; what's an example of a "uniform platform" that could support/challenge Gat's thesis?
+
+## Scroll, Skim, Stare
+ 
+https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
+_Laurel Schwulst, May 2018_
+
+- Drawing from your own experiences—what are other metaphors we could use to describe a website?
+- What's an example that supports the idea of a website being "inherently unfinished"?
+- What are some possible approaches to "cultivating" a website?

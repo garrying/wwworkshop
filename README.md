@@ -27,8 +27,8 @@ ___
 Introduction to the course, our expectations and the gain a basic understanding of fundamental code-materiality of the web. Discussion prompt: What is one of your earliest memory of being online?
 
 - **Presentation: [Module 1](./module-1-everything-is-deeply-intertwingled/lecture-01.pdf)**
-- **Reading: [What Screens Want (Frank Chimero, November 2013)](./readings.md#what-screens-want)
 - **Assignment: [Household Objects](./assignments/household-objects.md)**
+- **Reading: [What Screens Want (Frank Chimero, November 2013)](./readings.md#what-screens-want)**
 
 ___
 
@@ -87,6 +87,7 @@ Class review of _Interactive Typologies_ assignment. Presentation, and deeper lo
 
 - **Presentation: [Module 6](./module-6-interaction-3/lecture-06.pdf)**
 - **Assignment: [Variable Dimensions](./assignments/variable-dimensions.md)**
+- **Reading: [Scroll, Skim, Stare (Orit Gat, April 2016)](./readings.md#scroll-skim-stare)**
 
 ___
 
@@ -96,7 +97,7 @@ Presentation and demonstration around the design methodologies and possibilities
 
 - **Presentation: [Module 7](./module-7-libraries-stacks-collections/lecture-07.pdf)**
 - **Assignment: [Data Rivers, Streams, and Creeks](./assignments/data-rivers-streams-creeks.md)**
-- **Reading: [Scroll, Skim, Stare (Orit Gat, April 2016)](./readings.md#scroll-skim-stare)**
+- **Reading: [Graphesis: Visual Forms of Knowledge Production (Johanna Drucker, July 2014)](./readings.md#graphesis-visual-forms-of-knowledge-production)**
 
 ___
 
@@ -104,7 +105,7 @@ ___
 
 Work session for the _Data Rivers, Streams, and Creeks_ assignment and discussion around the final assignment, _Collection of Collections_.
 
-- **Reading: [Graphesis: Visual Forms of Knowledge Production (Johanna Drucker, July 2014)](./readings.md#graphesis-visual-forms-of-knowledge-production)**
+- **Reading: [Database as Symbolic Form (Lev Manovich, June 1999)](./readings.md#database-as-symbolic-form)**
 
 ___
 
@@ -112,9 +113,8 @@ ___
 
 Final work session for _Data Rivers, Streams, and Creeks_ assignment. Review of the brief for the final assignment final assignment, _Collection of Collections_.
 
-- **Reading: [Database as Symbolic Form (Lev Manovich, June 1999)](./readings.md#database-as-symbolic-form)**
-- **Reading: [My website is a shifting house next to a river of knowledge. What could yours be? (Laurel Schwulst, May 2018)](./readings.md#my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be)**
 - **Assignment: [Collection of Collections](./assignments/collection-of-collections.md)**
+- **Reading: [My website is a shifting house next to a river of knowledge. What could yours be? (Laurel Schwulst, May 2018)](./readings.md#my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be)**
 
 ___
 

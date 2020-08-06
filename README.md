@@ -115,6 +115,7 @@ ___
 Final work session for _Data Rivers, Streams, and Creeks_ assignment. Review of the brief for the final assignment final assignment, _Collection of Collections_.
 
 - **Reading: [Database as Symbolic Form (Lev Manovich, June 1999)](./readings.md#database-as-symbolic-form)**
+- **Reading: [My website is a shifting house next to a river of knowledge. What could yours be? (Laurel Schwulst, May 2018)](./readings.md#my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be)**
 - **Assignment: [Collection of Collections](./assignments/collection-of-collections.md)**
 
 ___

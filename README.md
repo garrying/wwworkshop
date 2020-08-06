@@ -3,7 +3,7 @@
 Course material for _Interactive Media: Web, GDES-3091,_ an undergraduate course taught at OCAD University over the following semesters:
 - Fall of 2018
 - Spring/Summer of 2019
-- Spring/Summer of 2020
+- Spring/Summer of 2020 (Virtual)
 
 ## Description
 
@@ -27,7 +27,8 @@ ___
 Introduction to the course, our expectations and the gain a basic understanding of fundamental code-materiality of the web. Discussion prompt: What is one of your earliest memory of being online?
 
 - **Presentation: [Module 1](./module-1-everything-is-deeply-intertwingled/lecture-01.pdf)**
-- **Reading: [What Screens Want (Frank Chimero, November 2013)](./readings.md#what-screens-want)**
+- **Reading: [What Screens Want (Frank Chimero, November 2013)](./readings.md#what-screens-want)
+- **Reading: [J.R. Carpenter, Uniformagazine - issue five, January 2016)](./readings.md#a-handmade-web)
 - **Assignment: [Household Objects](./assignments/household-objects.md)**
 
 ___

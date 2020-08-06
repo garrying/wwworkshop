@@ -71,7 +71,7 @@ ___
 
 ### Chapter 6—Interaction III: Context
 
-Guest lecturer Ali S. Qadeer. In-class discussion of _Turing Complete User_, by Olia Lialina, and reviews of drafts for _Interactive Typologies_.
+In-class discussion of _Turing Complete User_, by Olia Lialina, and reviews of drafts for _Interactive Typologies_.
 
 ___
 

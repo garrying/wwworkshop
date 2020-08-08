@@ -37,7 +37,7 @@ ___
 A walkthrough and demonstration on fundamental aspects of structuring web documents and gain insights into the difference between form and function (Also framed as syntax and style).
 
 - **Presentation: [Module 2](./module-2-frame-and-a-mirror/lecture-02.pdf)**
-- **Reading: [J.R. Carpenter, Uniformagazine - issue five, January 2016)](./readings.md#a-handmade-web)
+- **Reading: [J.R. Carpenter, Uniformagazine - issue five, January 2016)](./readings.md#a-handmade-web)**
 
 ___
 

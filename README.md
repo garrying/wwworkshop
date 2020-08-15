@@ -22,6 +22,8 @@ ___
 
 ## Schedule
 
+12 classes are held in a regular semester. The following is based on the Fall 2018 semester and is meant to be an approximate guide as to when course content is presented.
+
 ### Chapter 1—Everything is Deeply Intertwingled
 
 Introduction to the course, our expectations and the gain a basic understanding of fundamental code-materiality of the web. Discussion prompt: What is one of your earliest memory of being online?

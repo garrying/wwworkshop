@@ -19,7 +19,7 @@ The production of the assignment may require the use of JavaScript methods that 
 ```javascript
 window.setTimeout(function () {
   window.alert
-}, 2000, 'That was really slow!')
+}, 2000, 'That was slow!')
 ```
 
 `setInternal()` executes a function repeatedly. For example, a `window.alert` is shown every 5 seconds:
@@ -30,14 +30,14 @@ window.setInterval(function () {
 }, 5000, 'It has been 5 seconds!')
 ```
 
-Note on time in JavaScript: Time in JavaScript is usually measured in milliseconds (ms).
+Note: Time in JavaScript is usually measured in milliseconds (ms). For example 2000 ms is equal to 2 seconds.
 
 ### Requirements
 
-❑ Use of a timer (Incrementing up or down)  
-❑ A primary element that changes given the timer  
-❑ Site should be viewable by anyone with the URL  
-❑ A place that describes what describes to a visitor the intent of the timer  
+❑ Use of a timer (Incrementing up or down, current time, duration)
+❑ A primary element that changes given the timer
+❑ Site should be viewable by anyone with the URL
+❑ A place that describes what describes to a visitor the intent of the experience
 
 ### References and Examples
 

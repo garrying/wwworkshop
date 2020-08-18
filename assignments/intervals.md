@@ -1,6 +1,10 @@
 # Intervals
 
-TBD
+Building on our understanding of JavaScript, CSS, and HTML, we will investigate _time_ as an element in building experiences on the web. Our investigation will be in the form of a single webpage that is responsive to time/duration.
+
+The subject matter, or theme, of the page is open to any direction. The decided upon theme should be purposeful, well considered, and frames the element of time/duration well to create a compelling experience. Additionally, consider your approach to time/duration as you approach the assignment. For example, we can reflect on the time of day a visitor encounters your work, or a set cadence of events as one approaches the experience in their browser.
+
+It's suggested that you leave comments in the code to help viewers understand what the intended interaction/event should be.
 
 ### On Time
 
@@ -8,7 +12,7 @@ TBD
 
 ### JavaScript
 
-The production of the assignment may required the use of a JavaScript methods that allow for a operation to be conducted over time. These methods, `setTimeOut` and `setInternal`, look similar but are different in how an operation is exectured.
+The production of the assignment may require the use of JavaScript methods that allow for an operation to be conducted over time. These methods, `setTimeOut` and `setInternal`, look similar but are different in how an operation is executed.
 
 `setTimeout()` executes a function, after waiting a specified number of milliseconds. For example, a `window.alert` is shown, once, after 2 seconds:
 
@@ -26,7 +30,7 @@ window.setInterval(function () {
 }, 5000, 'It has been 5 seconds!')
 ```
 
-Note on time in JavaScript: Time in JavaScript is usually in milliseconds.
+Note on time in JavaScript: Time in JavaScript is usually measured in milliseconds (ms).
 
 ### Requirements
 
@@ -37,4 +41,11 @@ Note on time in JavaScript: Time in JavaScript is usually in milliseconds.
 
 ### References and Examples
 
-TBD
+- http://screentimeclock.net/
+- http://work.damonzucconi.com/coordinated-mars-time/
+- http://hummingbirdclock.info/
+- https://www.usdebtclock.org/
+- https://www.withoutorder.com/
+- http://whatcolorisit.sumbioun.com/
+- https://otherti.me/tic/tac/
+- https://still-here.net/

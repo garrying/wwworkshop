@@ -42,10 +42,10 @@ Note: Time in JavaScript is usually measured in milliseconds (ms). For example 2
 
 ### Requirements
 
-❑ Use of a timer (Incrementing up or down, current time, duration)
-❑ A primary element that changes given the timer
-❑ Site should be viewable by anyone with the URL
-❑ A place that describes what describes to a visitor the intent of the experience
+- [ ] Use of a timer (Incrementing up or down, current time, duration)
+- [ ] A primary element that changes given the timer
+- [ ] Site should be viewable by anyone with the URL
+- [ ] A place that describes what describes to a visitor the intent of the experience
 
 ### References and Examples
 

@@ -57,6 +57,6 @@ Note: Time in JavaScript is usually measured in milliseconds (ms). For example 2
 - http://whatcolorisit.sumbioun.com/
 - https://otherti.me/tic/tac/
 - https://still-here.net/
-- http://calendarz.earth/
+- http://calendars.earth/
 
 ![Letter from Félix González-Torres to Ross Laycock from 1988](../media/letter-from-gonzalez-torres-to-ross-from-1988.jpg "Félix González-Torres, Untitled (Perfect Lovers)")

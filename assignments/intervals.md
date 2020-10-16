@@ -8,7 +8,15 @@ It's suggested that you leave comments in the code to help viewers understand wh
 
 ### On Time
 
-TBD
+This assignment draws inspiration from a chapter titled _I-N-T-E-R-F-A-C-E_ in the book [A \*New* Program for Graphic Design ](https://a-new-program-for-graphic-design.org/). The following are excerpts from related texts, presented as prompts, to frame the assignment as an extension to how we could think about creating a mediated experience through the browser.
+
+> A computer is a clock with benefits.
+
+> They all work the same, doing second-grade math, one step at a time: Tick, take a number and put it in box one. Tick, take another number, put it in box two. Tick, operate (an operation might be addition or subtraction) on those two numbers and put the resulting number in box one. Tick, check if the result is zero, and if it is, go to some other box and follow a new set of instructions. A computer’s processing power is even measured by the rate of its CPU, called “clock speed.”
+
+> Whatever “lies between” is called interface, whatever allows us to link two different elements, to reconcile them, to put them into communication.
+
+> An interface is inevitably a product of its culture — it’s made in a specific time and place to be used in a specific time and place and design decisions reflect shared conventions, assumptions, and histories from that setting. An interface designed *now* will not necessarily work 20 years in the future.
 
 ### JavaScript
 
@@ -49,3 +57,4 @@ Note: Time in JavaScript is usually measured in milliseconds (ms). For example 2
 - http://whatcolorisit.sumbioun.com/
 - https://otherti.me/tic/tac/
 - https://still-here.net/
+- http://calendars.earth/

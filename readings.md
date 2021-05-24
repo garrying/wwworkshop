@@ -68,7 +68,7 @@ _Orit Gat, April 2016_
 
 ## My website is a shifting house next to a river of knowledge. What could yours be?
  
-https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
+https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
 _Laurel Schwulst, May 2018_
 
 - Drawing from your own experiences—what are other metaphors we could use to describe a website?

@@ -32,8 +32,6 @@ You may need to adjust your HTML file as you go along—perhaps you'll need DIVs
 
 - [Wander](http://go-wander.org/): This website literally builds itself as your navigate through it.
 
-- [Inert](http://inert.co/): This website deploys layering and a strong typographic grid to present the reader with simultaneous reading experiences.
-
 - [A Journey in Which I Travel North, on the World’s Most Beautiful Voyage, Searching for the Specter of My Grandfather and a Glimpse of the Ever-Elusive Midnight Sun](https://www.nytimes.com/interactive/2014/09/19/travel/reif-larsen-norway.html): This article uses a variety of editorial cues to create an engaging reading experience.
 
 - [studioyonder.de](https://studioyonder.de/): This website uses the current digital paradigm of representing 3D space (the Google map) to present the work of contemporary Landscape Architecture.

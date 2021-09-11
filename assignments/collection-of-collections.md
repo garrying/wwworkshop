@@ -71,7 +71,8 @@ _Navigate to the next page in the webring, adjacent to you_
 - http://interferencearchive.org/
 - http://www.suspended-objects.org/
 - https://seeredwomensworkshop.wordpress.com/
-- https://www.pointerpointer.com/
+- https://pointerpointer.com/
 - http://dinakelberman.tumblr.com/
 - https://letterformarchive.org/
 - http://riseupfeministarchive.ca/
+- https://otherti.me/

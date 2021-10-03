@@ -54,8 +54,11 @@ _Navigate to the next page in the webring, adjacent to you_
 ### References and Examples
 
 - http://www.lubalin100.com
+- http://cloud-index.cloud/
+- https://www.window-swap.com/
 - https://www.artic.edu/collection
 - http://open-foundry.com/hot30
+- https://your-personal.cloud/
 - https://anthology.rhizome.org/
 - https://www.arch.columbia.edu/books
 - https://www.printedmatter.org/
@@ -63,6 +66,9 @@ _Navigate to the next page in the webring, adjacent to you_
 - https://gifcities.org/
 - http://www.starringthecomputer.com/
 - https://designarchives.aiga.org
+- https://quarantinestories.today/
+- http://menus.nypl.org/menus/
+- https://www.foldnfly.com/
 - http://eros.110west40th.com/
 - http://avantgarde.110west40th.com/
 - http://www.postcards-from-google-earth.com/

@@ -10,7 +10,7 @@ Course material for _Interactive Media: Web, GDES-3091,_ an undergraduate course
 ## Description
 
 - **Location:**  Room 558-MCA, [100 McCaul Street/Sharp Centre](https://goo.gl/maps/FvQJx42HD262)
-- **Instructor:** [Garry Ing](https://garrying.com), ging@faculty.ocadu.ca
+- **Instructor:** [Garry Ing](https://garrying.com), ging@ocadu.ca
 
 > Learn how to weave a range of online technologies into engaging interactive experiences. In this course, students will learn the basics of web technologies that are fundamental to building an online presence for any design project. Students will learn how to identify the current technologies underlying social media interfaces, mobile web applications that rely on browsers and apps. You will also gain an understanding of the fundamentals of markup languages (HTML, XML) as well as formatting (CSS) and client-side programming (JS). —[OCAD U Course Catalogue, 2018](https://selfservice.ocadu.ca/Student/Courses)
 

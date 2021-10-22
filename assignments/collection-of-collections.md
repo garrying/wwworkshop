@@ -82,3 +82,4 @@ _Navigate to the next page in the webring, adjacent to you_
 - https://letterformarchive.org/
 - http://riseupfeministarchive.ca/
 - https://otherti.me/
+- https://mynothingnewyear.com/

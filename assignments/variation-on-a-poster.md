@@ -34,4 +34,4 @@ You may need to adjust your HTML file as you go along—perhaps you'll need DIVs
 
 - [A Journey in Which I Travel North, on the World’s Most Beautiful Voyage, Searching for the Specter of My Grandfather and a Glimpse of the Ever-Elusive Midnight Sun](https://www.nytimes.com/interactive/2014/09/19/travel/reif-larsen-norway.html): This article uses a variety of editorial cues to create an engaging reading experience.
 
-- [studioyonder.de](https://studioyonder.de/): This website uses the current digital paradigm of representing 3D space (the Google map) to present the work of contemporary Landscape Architecture.
+- [Lost Code](https://lostcode.info/): Lost Code is a graphic design project exploring the friction in translation. This website uses the digital paradigm of representing 3D space (the Google map) to create a frictional experience that resembles reading a translated text.

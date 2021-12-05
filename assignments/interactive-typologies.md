@@ -49,6 +49,8 @@ You will be assigned an interactive element through the following page—JavaScr
 
 - http://recursor.me/
 - https://empathi.cc/
+- https://www.trashloop.com/
+- http://papertoilet.com/
 - https://tdingsun.github.io/web-type/chancery/
 - http://www.putitonapedestal.com/
 - https://therevolvinginternet.com/

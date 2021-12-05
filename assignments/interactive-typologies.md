@@ -48,12 +48,15 @@ You will be assigned an interactive element through the following page—JavaScr
 ### Related Examples
 
 - http://recursor.me/
-- http://screenself.me/replicate/
-- http://screenself.me/
+- https://tdingsun.github.io/web-type/chancery/
+- http://www.putitonapedestal.com/
+- https://therevolvinginternet.com/
+- http://www.openthatwindow.com/
+- https://www.laurelhalo.com/
 - http://pointerpointer.com/
-- http://www.blankwindows.com/
+- https://www.blankwindows.com/
 - http://hummingbirdclock.info/
-- http://jacobhoving.com/
+- https://jacobhoving.com/collection.html
 - http://www.klassehickmann.com/
 - http://indirect.flights/
 - http://rosemarybutcher.com/

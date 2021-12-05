@@ -1,8 +1,8 @@
 _This course outline is an edited version of the outline on OCAD U's Canvas LMS as of December, 2018_
 
-# Interactive Media: Web GDES-3091-001
+# Interactive Media: Web
 
-**Course:** GDES-3091-001 Interactive Media: Web  
+**Course:** Interactive Media: Web  
 **Delivery Method:** Studio  
 **Term:** 2018 Fall  
 **Credit Value:** 0.5  

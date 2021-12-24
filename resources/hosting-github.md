@@ -8,7 +8,7 @@ GitHub is a provider of hosting for software development and version control usi
 
 ## Setup GitHub Desktop
 1. Download and install [GitHub Desktop](https://desktop.github.com/) (macOS/Windows).
-2. Click "Sign in to GitHub.com" on the welcome screen (This will open a browser window). From this screen you can create an account if you don't have one already. You can also step-through [Creating a GitHub account](#creating-a-github-account) below.
+2. Click "Sign in to GitHub.com" on the welcome screen (This will open a browser window). From this screen you can create an account if you don't have one already. You can also step-through [Creating a GitHub account](#creating-a-github-account-if-one-was-created-as-part-of-the-steps-aboove) below.
 3. Click "Authorize desktop" on the "Authorize GitHub Desktop" page.
 4. Click "Open GitHub Desktop" in the resulting dialogue box.
 5. Select "Use my GitHub account name and email address" on the "Configure Git" screen.

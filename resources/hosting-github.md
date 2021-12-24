@@ -14,7 +14,7 @@ GitHub is a provider of hosting for software development and version control usi
 5. Select "Use my GitHub account name and email address" on the "Configure Git" screen.
 6. Click "Finish".
 
-### Creating a GitHub account (if one was created as part of the steps aboove)
+### Creating a GitHub account (if one was not created as part of the steps above)
 1. Visit [github.com/signup](https://github.com/signup)
 2. Enter your email (an email you had access to as you will need to verify the email).
 3. Create a password (Make sure it's at least 15 characters OR at least 8 characters including a number and a lowercase letter).

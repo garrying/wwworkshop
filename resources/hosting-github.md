@@ -26,7 +26,7 @@ GitHub is a provider of hosting for software development and version control usi
 1. Click "Create a New Repository on your Hard Drive..." on the "Let's get started!" screen.
 ![Let's get start screen of GitHub Desktop](./media/7.png)
 2. On the "Create a New Repository" screen, fill "Name" with the following format where `GitHubUsername` is your GitHub username: `GitHubUsername.github.io`.
-3. (optional) Provide a description.
+3. (optional) Provide a description to help visitors to the repository know what the project is for.
 4. Note the "Local Path" will be where the project folder will reside on your computer. Click "Choose" to define a new folder for your website.
 5. Click "Create Repository".
 

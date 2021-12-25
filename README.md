@@ -33,7 +33,7 @@ Introduction to the course, our expectations and the gain a basic understanding 
 
 - **Presentation: [Module 1](./module-1-everything-is-deeply-intertwingled/lecture-01.pdf)**
 - **Assignment: [Household Objects](./assignments/household-objects.md)**
-- **Reading: [What Screens Want (Frank Chimero, November 2013)](./readings.md#what-screens-want)**
+- **Reading: [What Screens Want (Frank Chimero, November 2013)](./assignments/readings.md#what-screens-want)**
 
 ___
 
@@ -42,7 +42,7 @@ ___
 A walkthrough and demonstration on fundamental aspects of structuring web documents and gain insights into the difference between form and function (Also framed as syntax and style).
 
 - **Presentation: [Module 2](./module-2-frame-and-a-mirror/lecture-02.pdf)**
-- **Reading: [J.R. Carpenter, Uniformagazine - issue five, January 2016)](./readings.md#a-handmade-web)**
+- **Reading: [J.R. Carpenter, Uniformagazine - issue five, January 2016)](./assignments/readings.md#a-handmade-web)**
 
 ___
 
@@ -60,7 +60,7 @@ ___
 A class devoted to playing with the fundamentals of web-based interaction via the JavaScript programming language and it's jQuery library.
 
 - **Presentation: [Module 4](./module-4-interaction-1/lecture-04.pdf)**
-- **Reading: [Turing Complete User (Olia Lialina, October 2012)](./readings.md#turing-complete-user)**
+- **Reading: [Turing Complete User (Olia Lialina, October 2012)](./assignments/readings.md#turing-complete-user)**
 
 ___
 
@@ -70,7 +70,7 @@ Presentation and demonstration of jQuery and interacting with the document objec
 
 - **Presentation: [Module 5](./module-5-interaction-2/lecture-05.pdf)**
 - **Assignment: [Interactive Typologies](./assignments/interactive-typologies.md)**
-- **Reading: [This Stands as a Sketch for the Future (David Reinfurt, July 2007)](./readings.md#this-stands-as-a-sketch-for-the-future)**
+- **Reading: [This Stands as a Sketch for the Future (David Reinfurt, July 2007)](./assignments/readings.md#this-stands-as-a-sketch-for-the-future)**
 
 ___
 
@@ -92,7 +92,7 @@ Class review of _Interactive Typologies_ assignment. Presentation, and deeper lo
 
 - **Presentation: [Module 6](./module-6-interaction-3/lecture-06.pdf)**
 - **Assignment: [Variable Dimensions](./assignments/variable-dimensions.md)**
-- **Reading: [Scroll, Skim, Stare (Orit Gat, April 2016)](./readings.md#scroll-skim-stare)**
+- **Reading: [Scroll, Skim, Stare (Orit Gat, April 2016)](./assignments/readings.md#scroll-skim-stare)**
 
 ___
 
@@ -102,7 +102,7 @@ Presentation and demonstration around the design methodologies and possibilities
 
 - **Presentation: [Module 7](./module-7-libraries-stacks-collections/lecture-07.pdf)**
 - **Assignment: [Data Rivers, Streams, and Creeks](./assignments/data-rivers-streams-creeks.md)**
-- **Reading: [Graphesis: Visual Forms of Knowledge Production (Johanna Drucker, July 2014)](./readings.md#graphesis-visual-forms-of-knowledge-production)**
+- **Reading: [Graphesis: Visual Forms of Knowledge Production (Johanna Drucker, July 2014)](./assignments/readings.md#graphesis-visual-forms-of-knowledge-production)**
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 Work session for the _Data Rivers, Streams, and Creeks_ assignment and discussion around the final assignment, _Collection of Collections_.
 
-- **Reading: [Database as Symbolic Form (Lev Manovich, June 1999)](./readings.md#database-as-symbolic-form)**
+- **Reading: [Database as Symbolic Form (Lev Manovich, June 1999)](./assignments/readings.md#database-as-symbolic-form)**
 
 ___
 
@@ -119,7 +119,7 @@ ___
 Final work session for _Data Rivers, Streams, and Creeks_ assignment. Review of the brief for the final assignment final assignment, _Collection of Collections_.
 
 - **Assignment: [Collection of Collections](./assignments/collection-of-collections.md)**
-- **Reading: [My website is a shifting house next to a river of knowledge. What could yours be? (Laurel Schwulst, May 2018)](./readings.md#my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be)**
+- **Reading: [My website is a shifting house next to a river of knowledge. What could yours be? (Laurel Schwulst, May 2018)](./assignments/readings.md#my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be)**
 
 ___
 

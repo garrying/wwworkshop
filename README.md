@@ -50,7 +50,7 @@ ___
 
 Presentation and assignment on the basics of on-screen typography past and present as well as embedding, anatomy of a screen font, and discuss how screens affect our typographic practices.
 
-- **Presentation: [Module 3](./module-3-a-crystal-goblet/lecture-03.pdf)**
+- **Presentation: [Module 3](./module-3-aliasing/lecture-03.pdf)**
 - **Assignment: [Variation on a Poster](./assignments/variation-on-a-poster.md)**
 
 ___

@@ -1,5 +1,7 @@
 # Hosting: OCAD University Webspace
 
+A service offered by OCAD University to host web content by uploading files to a server. Content is viewable by visiting `https://webspace.ocad.ca/~OCADUid/`.
+
 ## Prerequisites
 - OCADUid and password
 - (S)FTP client

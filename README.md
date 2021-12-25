@@ -46,7 +46,7 @@ A walkthrough and demonstration on fundamental aspects of structuring web docume
 
 ___
 
-### Chapter 3—A Crystal Goblet
+### Chapter 3—Aliasing
 
 Presentation and assignment on the basics of on-screen typography past and present as well as embedding, anatomy of a screen font, and discuss how screens affect our typographic practices.
 

@@ -9,6 +9,6 @@ To begin to get you comfortable with the use of code to create form, we will sta
 
 **Make sure you use absolute or fixed positioning for all of your elements.**
 
-With CSS3, it is possible to draw non-rectangular shapes right in the browser. Below is a page of CSS3 transformation examples. Edit the CSS on the right to see the shapes change on the left: [css-tricks.com/examples/ShapesOfCSS/](https://css-tricks.com/the-shapes-of-css/).
+With CSS, it is possible to draw non-rectangular shapes right in the browser. Below is a page of CSS transformation examples. Edit the CSS on the right to see the shapes change on the left: [css-tricks.com/examples/ShapesOfCSS/](https://css-tricks.com/the-shapes-of-css/).
 
-Objects be can composed in a single page or multiple `.html` files. If you decide to use a single file, the objects should be noticably different and arranged as a cohesive composition.
+Objects be can composed in a single page or multiple `.html` files. If you decide to use a single file, the objects should be noticeably different and arranged as a cohesive composition.

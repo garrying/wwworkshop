@@ -1,14 +1,15 @@
 # Web Typography: Variation on a Poster
 
+- [maria-hupfieldthe-one-who-keeps-on-giving.html](./content/maria-hupfieldthe-one-who-keeps-on-giving.html)
 - [everything-was-now-1968-circa-1968.html](./content/everything-was-now-1968-circa-1968.html)
-- [tei-2018.html](./content/tei-2018.html)
+- [media-ecology-revisiting-tv-garden.html](./content/media-ecology-revisiting-tv-garden.html)
 - [theorizing-the-web.html](./content/theorizing-the-web.html)
 - [through-post-atomic-eyes.html](./content/through-post-atomic-eyes.html)
-- [what-comes-after-the-enviroment.html](./content/what-comes-after-the-environment.html)
+- [deep-city-climate-crisis-democracy-and-the-digital.html](./content/deep-city-climate-crisis-democracy-and-the-digital.html)
 
 Starting with the material provided from **one** of the above content packages, typeset a document with the intent of it being an announcement for the event.
 
-Consider the form, hierarchy, and structure of the page, and how the link(s) on the page relate to the given theme. You must use at least one HTML file. Consider separating content across multiple pages if needed, or directing visitors to a external site for further information. You can start with the boilerplate template below, or with the files above:
+Consider the form, hierarchy, and structure of the page, and how the link(s) on the page relate to the given theme. You must use at least one HTML file. Consider separating content across multiple pages if needed, or directing visitors to an external site for further information. You can start with the boilerplate template below, or with the files above:
 
 [example-1-semantics](../examples/example-1-semantics)
 
@@ -26,7 +27,7 @@ Take note of the text content being presented in relation to the form, typograph
 ❑ A consideration towards the structure of your page (Where your elements sit)  
 ❑ An embedded typeface
 
-You may need to adjust your HTML file as you go along—perhaps you'll need DIVs between sections or you want to target specific things with your stylesheet (consider adding classes to your elements).
+You may need to adjust your HTML file as you go along—perhaps you'll need DIVs between sections or you want to target specific things with your stylesheet (consider adding IDs and classes to your elements).
 
 **Examples of websites that create unique and thoughtful experiences for their viewers:**
 

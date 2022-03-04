@@ -1,4 +1,4 @@
-# Hosting: GitHub.com
+# Hosting: [GitHub.com](https://github.com/)
 
 GitHub is a provider of hosting for software development and version control using [Git](https://en.wikipedia.org/wiki/Git). There are many resources, and concepts, to understand Git. This guide will be specific in using GitHub Desktop as a method to publish a website on GitHub.
 

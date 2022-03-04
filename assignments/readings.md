@@ -33,7 +33,7 @@ _Interface and Interpretation (pages 138–179)_
 
 ## Database as Symbolic Form
 
-https://journals.sagepub.com/doi/10.1177/135485659900500206  
+http://manovich.net/content/04-projects/022-database-as-a-symbolic-form/19_article_1998.pdf  
 _Lev Manovich, June 1999_
 
 - How does Manovich see the opposition between database and narrative? Manovich talks about computer games as a form of Interactive Narrative. Can you speculate on other forms of interactive narratives (in our culture or imagined) that aren't computer games?

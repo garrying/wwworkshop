@@ -1,0 +1,36 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: #ddd;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.articles-feed {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.article {
+  background: #fff;
+  border-radius: 20px;
+  width: 375px;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.article-link {
+  padding: 10px;
+  background: #333;
+  color: #fff;
+  border-radius: 20px;
+  text-decoration: none;
+  display: inline-block;
+}

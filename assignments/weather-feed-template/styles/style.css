@@ -1,0 +1,24 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: #ddd;
+  font-size: clamp(1.8rem, 5vw, 5rem);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.weather-display {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.weather-details {
+  line-height: 1em;
+  margin: 0;
+}

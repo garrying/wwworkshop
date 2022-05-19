@@ -11,6 +11,7 @@ Using a JavaScript Object Notation (JSON) Application Programming Interface (API
 - Each project should include a statement outlining what you’re doing as well as your data source.
 
 **Resources:**
+- https://github.com/public-apis/public-apis
 - https://newsapi.org
 - https://openweathermap.org/api
 - https://collection.cooperhewitt.org/api

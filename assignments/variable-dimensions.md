@@ -15,13 +15,16 @@ Lastly, explain your idea in the form of comments at each breakpoint in your CSS
 In your HTML file be sure to add the following between `<head>` and `</head>`:
 
 ```html
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, shrink-to-fit=no"
+/>
 ```
 
 This is required in order for you to see your media queries work at their corresponding resolutions. Feel free to use [example-4-context](../examples/example-4-context) as a starting point.
- 
+
 Some worthwhile resources:
-- [mediaqueri.es](https://mediaqueri.es/) Examples of sites using media queries
+
 - [w3schools.com/cssref/css3_pr_mediaquery.asp](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) All media query conditions
 - [responsivedesign.is](https://responsivedesign.is/) A primer site
 - [fastcompany.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2](https://www.fastcompany.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2) Principles of responsive design

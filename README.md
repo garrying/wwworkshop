@@ -7,6 +7,7 @@ Course material for _Interactive Media: Web,_ an undergraduate course taught at 
 - Spring/Summer of 2019
 - Spring/Summer of 2020 (Virtual)
 - Winter of 2022
+- Spring/Summer of 2024
 
 ## Description
 

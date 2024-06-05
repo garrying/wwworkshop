@@ -1,47 +1,49 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>News Feed</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<head>
-  <meta charset="utf-8">
-  <title>News Feed</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
 
-  <link rel="stylesheet" href="styles/style.css">
-</head>
+  <body>
+    <!-- Articles will be placed in this div as a visitor opens the page -->
+    <div class="articles-feed"></div>
 
-<body>
+    <template id="template">
+      <!-- Start of the template -->
+      <article class="article">
+        <div class="article-image">
+          <!-- Show and image if there is one. When there is no image show a placeholder image (images/placeholder.png) -->
+          <img
+            src="${article.urlToImage ? article.urlToImage : 'images/placeholder.png'}"
+            alt=""
+          />
+        </div>
+        <header>
+          <h1 class="article-title">${article.title}</h1>
+          <!-- Show the author if one is present. Otherwise, leave blank -->
+          <h2 class="article-author">
+            ${article.author ? article.author : '' }
+          </h2>
+          <!-- Articles have a source object. Inside source there is a name key -->
+          <h3 class="article-source">${article.source.name}</h3>
+        </header>
+        <div class="content">
+          <p>${article.description ? article.description : ''}</p>
+        </div>
+        <!-- Use the article url as the href for a link at the bottom of the article block -->
+        <a href="${article.url}" target="_blank" class="article-link"
+          >Read more</a
+        >
+      </article>
+      <!-- End of the template -->
+    </template>
 
-  <!-- Articles will be placed in this div as a visitor opens the page -->
-  <div class="articles-feed">
-  </div>
-
-  <template id="template">
-    <!-- Start of the template -->
-    <article class="article">
-      <div class="article-image">
-        <!-- Show and image if there is one. When there is no image show a placeholder image (images/placeholder.png) -->
-        <img src="${article.urlToImage ? article.urlToImage : 'images/placeholder.png'}" alt="">
-      </div>
-      <header>
-        <h1 class="article-title">${article.title}</h1>
-        <!-- Show the author if one is present. Otherwise, leave blank -->
-        <h2 class="article-author">${article.author ? article.author : '' }</h2>
-        <!-- Articles have a source object. Inside source there is a name key -->
-        <h3 class="article-source">${article.source.name}</h3>
-      </header>
-      <div class="content">
-        <p>${article.description}</p>
-      </div>
-      <!-- Use the article url as the href for a link at the bottom of the article block -->
-      <a href="${article.url}" target="_blank" class="article-link">Read more</a>
-    </article>
-    <!-- End of the template -->
-  </template>
-
-  <!-- jQuery is required to retrieve the articles -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script src="js/main.js"></script>
-
-</body>
-
+    <!-- jQuery is required to retrieve the articles -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
 </html>

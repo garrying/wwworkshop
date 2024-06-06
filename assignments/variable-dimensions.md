@@ -25,6 +25,11 @@ This is required in order for you to see your media queries work at their corres
 
 Some worthwhile resources:
 
-- [w3schools.com/cssref/css3_pr_mediaquery.asp](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) All media query conditions
-- [responsivedesign.is](https://responsivedesign.is/) A primer site
-- [fastcompany.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2](https://www.fastcompany.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2) Principles of responsive design
+- [A Practical Guide to CSS Media Queries](https://stackdiary.com/css-media-queries/)
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
+- https://the-responsive.com/
+- https://danielswanick.com/gifs-explaining-responsive-design/ gifs on responsive design
+- https://longstoryshort.glitch.me/
+- https://littlefragments.com/
+- https://screensizemap.com/
+- https://simplecss.eu/pxtoems.html
